@@ -56,7 +56,7 @@ namespace DMT
             ModWeisheit = BerechneModifikator(weisheit);
             ModCharisma = BerechneModifikator(charisma);
 
-            //Double Proficency noch nicht berücksichtigt
+            //Double Proficency noch nicht berücksichtigt!
             Akrobatik = BerechneFertigkeit(ModGeschick, geübtAkrobatik);
             ArkaneKunde = BerechneFertigkeit(ModIntelligenz, geübtArkaneKunde);
             Athletik = BerechneFertigkeit(ModStärke, geübtAthletik);
