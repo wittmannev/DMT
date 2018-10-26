@@ -1,0 +1,2 @@
+C:\Users\karri\source\repos\DMT\Project1\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\karri\source\repos\DMT\Project1\obj\Debug\Business.csproj.CoreCompileInputs.cache

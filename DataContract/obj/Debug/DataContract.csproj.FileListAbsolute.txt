@@ -1,0 +1,2 @@
+C:\Users\karri\source\repos\DMT\DataContract\obj\Debug\DataContract.csprojResolveAssemblyReference.cache
+C:\Users\karri\source\repos\DMT\DataContract\obj\Debug\DataContract.csproj.CoreCompileInputs.cache
